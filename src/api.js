@@ -36,3 +36,13 @@ render() {
 }
 
 export default RestoAPI;
+
+
+
+https://facebook.github.io/react-native/releases/0.27/docs/sample-application-movies.html 
+
+https://stackoverflow.com/questions/38742334/what-is-right-way-to-do-api-call-in-react-js 
+
+https://github.com/Shopify/storefront-api-examples/tree/master/react-js-buy
+
+https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
